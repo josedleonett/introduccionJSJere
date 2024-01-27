@@ -88,13 +88,13 @@ console.log(idsFavoritosDelUsuario);
 
 
 //TIPOS DE DATOS RESUMEN:
-// string
+// string | cadena de texto
 let miString = "Valos del String";
 
-// number
+// number | numero
 let miNumber = 1.5;
 
-// boolean
+// boolean | verdadero/falso
 let miBoolean = true;
 
 // undefined | indefinido o sin asignar
@@ -103,11 +103,11 @@ let miUndefined;
 // null | nulo
 let miNulo = null;
 
-// object
+// object | objeto clave-valor
 let miObjeto = {
     clave: "valor",
     clave2: 10
 };
 
-// array
+// array | lista
 let miArray = [10, "Tambien acepta String", miObjeto];
